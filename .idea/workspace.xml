@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03f08013-af41-4285-8ff2-d0c0dc586976" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BDD/src/test/java/data/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD/src/test/java/page/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD/src/test/java/page/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD/src/test/java/page/TransferPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD/src/test/java/page/VerificationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD/src/test/java/test/MoneyTransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jar4/src/test/java/ru/netology/DeliveryCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JarSelenid/src/test/java/ru/netology/DeliveryCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMovie/src/main/java/ru/netology/yavaqa/MovieManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMovie/src/test/java/MovieManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javapackage/src/main/java/ru/netology/yavaqa/javapackage/services/BonusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javapackage/src/test/java/ru/netology/yavaqa/javapackage/services/BonusServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javapost/Javapost.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javapost/src/FormDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javapost/src/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javapost1/src/main/java/FormDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javapost1/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javapost1/src/main/java/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaservice/src/main/java/ru/netology/stats/StatsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javaservice/src/test/java/ru/netology/stats/StatsServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/main/java/ru/netology/data/DataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patterns/src/test/java/ru/netology/test/CardDeliveryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pocer/src/main/java/Poker0dds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Postman/src/test/java/test/AuthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yava6/src/BmiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yavaqa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yavaqa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yavaqa/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yavaqa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yavaqa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yavaqa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yavaqa/src/main/java/BonusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yavaqa/src/main/resources/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yavaqa/src/test/java/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yavaqa/src/test/java/BonusServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yavaqa/src/test/resources/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cute/cute.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit/src/main/java/ru/netology/CashbackHackService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit/src/test/java/ru/netology/CashbackHackServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/bonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/test/java/mainTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2wAp0N51V3zY6NeHQdftiS6J2LD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03f08013-af41-4285-8ff2-d0c0dc586976" name="Changes" comment="" />
+      <created>1740821753213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740821753213</updated>
+    </task>
+    <servers />
+  </component>
+</project>
